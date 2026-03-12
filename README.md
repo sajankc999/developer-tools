@@ -27,6 +27,14 @@ The script automatically checks for and installs:
 
 ## 🚀 Installation
 
-1. **Download the script**
+### Method 1: Clone the Repository
+
 ```bash
-wget https://your-repo-url/django-launcher.sh -O django-launcher.sh
+# Clone the repository
+git clone https://github.com/sajankc999/developer-tools.git
+
+# Navigate to the directory
+cd developer-tools
+
+# Make the script executable
+chmod +x django-launcher.sh
